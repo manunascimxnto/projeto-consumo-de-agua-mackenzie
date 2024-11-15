@@ -1,4 +1,4 @@
-# projeto-consumo-de-agua-mackenzie
+# Projeto-Consumo-de-Agua
 
-Aluna: Emanuelle do Nascimento Cassiano Pereira
-RA: 10441417
+## Projeto de Consumo de agua da Universidade Presbiterina Mackenzie
+### Aluno: Matheus Lucas Leite
